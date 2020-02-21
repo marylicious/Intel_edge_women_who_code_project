@@ -2,7 +2,7 @@
 #women_who_code channel specific project for Intel Edge OpenVINO toolkits deployment and learning.
 
 # Mini-Project Idea
-## Object Detection and classification as Person or not! 
+## Person Detection
 
 ### Part 1
 Using a Pre-trained model provided in OpenVINO toolkit and deploy it in edge. (Getting the basics strong, and revising and practicing the Udacity Intel Edge Scholarship Challenge Phase - 1, course content.)
